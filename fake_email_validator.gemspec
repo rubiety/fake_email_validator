@@ -21,6 +21,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 10'
   spec.add_development_dependency 'minitest', '~> 4'
 
-  spec.add_runtime_dependency 'activemodel', '~> 4.0', '> 4.0.0'
+  spec.add_runtime_dependency 'activemodel', '~> 3.2', '> 3.2.0'
   spec.add_runtime_dependency 'mail', '~> 2.5', '> 2.5.3'
 end
